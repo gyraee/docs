@@ -1,32 +1,13 @@
-# Mintlify Starter Kit
+# EXILE DOCS
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+Official documentation for the **Exile** discord bot. Includes details and helpful tips on working commands to make your **Exile** experience easier and even better.
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+#### Documentation Contents
 
-### Development
+- Command Explainations & Instructions
+- WIP
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+#### Support
 
-```
-npm i -g mintlify
-```
-
-Run the following command at the root of your documentation (where docs.json is)
-
-```
-mintlify dev
-```
-
-### Publishing Changes
-
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
-
-#### Troubleshooting
-
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `docs.json`
+- To receive support, join the official **Exile Support Discord Server**
+- You may also run `/support` to get a quick overview of support and a direct link button to the support server
