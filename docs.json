@@ -4,8 +4,8 @@
   "name": "Exile Docs",
   "colors": {
     "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#297DCD",
+    "dark": "#031C34"
   },
   "favicon": "/favicon.png",
   "navigation": {
@@ -16,20 +16,13 @@
           {
             "group": "Get Started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "index"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Commands",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "commands/code"
             ]
           }
         ]
