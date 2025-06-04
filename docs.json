@@ -46,12 +46,12 @@
     "primary": {
       "type": "button",
       "label": "Main Website",
-      "href": "https://exile."
+      "href": "https://guns.lol/exilebot"
     }
   },
   "footer": {
     "socials": {
-      "discord": "https://github.com/mintlify"
+      "discord": "https://discord.gg/dTpfM37fnJ"
     }
   }
 }
